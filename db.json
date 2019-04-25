@@ -1,0 +1,69 @@
+{
+  "tables":[{
+    "id" :"01",
+    "description" : "table1",
+    "fields" : ["rollno","name","class","result","percentage"],
+    "data": [
+        [1,2,3,4,5],
+        ["aaa","bbb","ccc","ddd","eee"],
+        ["a","b","c","d","e"],
+        ["p","f","p","p","p"],
+        ["90","20","55","87","98"]
+    ]
+},
+{
+    "id" :"02",
+    "description" : "table2",
+    "fields" : ["rollno","name","class","result","percentage"],
+    "data": [
+        [11,12,13,14,15],
+        ["aa","bb","cc","dd","ee"],
+        ["a","b","c","d","e"],
+        ["f","f","p","p","f"],
+        ["20","20","55","87","18"]
+    ]
+},
+{
+        "id" :"03",
+        "description" : "table3",
+        "fields" : ["rollno","name","class","result","percentage","email"],
+        "data": [
+            [111,112,113,114,115],
+            ["aaaa","bbbb","cccc","dddd","eeee"],
+            ["a","b","c","d","e"],
+            ["p","p","p","p","f"],
+            ["80","56","55","87","18"],
+            ["aa@gmail.com","ba@gmail.com","ca@gmail.com","da@gmail.com","ea@gmail.com"]
+        ]
+},
+{
+        "id" :"04",
+        "description" : "table4",
+        "fields" : ["rollno","name","class","result","percentage"],
+        "data": [
+            [101,102,103,104,105],
+            ["a","b","c","d","e"],
+            ["a","b","c","d","e"],
+            ["f","p","p","p","p"],
+            ["10","56","55","87","98"]
+        ]
+}
+  ],
+  "logindetails":[
+      {
+          "email": "aa@gmail.com",
+          "password" : "1234"
+      },
+      {
+        "email": "bb@gmail.com",
+        "password" : "123"
+    },
+    {
+        "email": "cc@gmail.com",
+        "password" : "12345"
+    }
+  ]
+}
+
+      
+ 
